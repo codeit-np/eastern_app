@@ -1,4 +1,4 @@
-# final_food_app
+# Eastern Garages
 
 A new Flutter project.
 
